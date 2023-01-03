@@ -18,7 +18,7 @@ public class AddTwoNumbers {
 		int sum = atn.addTwoNumbers(num1, num2);
 		
 		System.out.println("Sum of two numbers is "+sum);
-
+		
 	}
 
 	public int addTwoNumbers(int a, int b) {
