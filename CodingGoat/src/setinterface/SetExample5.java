@@ -22,7 +22,7 @@ public class SetExample5 {
 		//Ans: Banana, Orange,Apple, Mango
 		
 		//b. What are the elements of set1 and set2 after executing set1.add(set2)
-		fruits1.add(fruits2);
+		//fruits1.add(fruits2);
 		//Ans: It will give a compilation error
 		
 		//c. What are the elements of set1 and set2 after executing set1.removeAll(set2)
